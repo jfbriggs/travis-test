@@ -5,6 +5,9 @@ def hello():
 def goodbye():
     return "Goodbye!"
 
+def what():
+    return "What?"
+
 
 if __name__ == "__main__":
     print(hello())
